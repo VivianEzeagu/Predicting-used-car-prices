@@ -11,6 +11,8 @@ Table of Contents:
 
 This project focuses on using a linear regression model in predicting the price of used cars based on their specifications. This could give a car dealership insight on the specifications with the most effect on cars prices. 
 
+The second part focuses on predicting the prices using a gradient boosting regressor model optimised by hyperparameter tuning which resulted in a highly accurate model.
+
 # Data Description:
 
 The data for this project includes the specifications of several cars including their brand, model, price, engine type, mileage, body type, year, registration information and engine volume.
